@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="400f781a-d723-4609-8317-80af9885d2b7" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/OnmyoujiImooc$Unittests_in_HtmlDownloaderTest_py.coverage" NAME="Unittests in HtmlDownloaderTest.py Coverage Results" MODIFIED="1523085774798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/OnmyoujiImooc$imooc_main.coverage" NAME="imooc_main Coverage Results" MODIFIED="1523204491542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OnmyoujiImooc" />
+    <SUITE FILE_PATH="coverage/OnmyoujiImooc$Unittests_for_HtmlParserTest_HtmlParserTest_test_parser_shikigami.coverage" NAME="Unittests for HtmlParserTest.HtmlParserTest.test_parser_shikigami Coverage Results" MODIFIED="1523085230242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/OnmyoujiImooc$Unittests_in_HtmlParserTest_py.coverage" NAME="Unittests in HtmlParserTest.py Coverage Results" MODIFIED="1523198491164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/OnmyoujiImooc$Unittests_for_HtmlParserTest_HtmlParserTest_test_re2.coverage" NAME="Unittests for HtmlParserTest.HtmlParserTest.test_re2 Coverage Results" MODIFIED="1523198511631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/OnmyoujiImooc$Unittests_in_OnmyouijImoocTest_py.coverage" NAME="Unittests in OnmyouijImoocTest.py Coverage Results" MODIFIED="1523083976260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/OnmyoujiImooc$Unittests_in_DataDealerTest_py.coverage" NAME="Unittests in DataDealerTest.py Coverage Results" MODIFIED="1523086085693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/OnmyoujiImooc$Unittests_for_OnmyouijImoocTest_OnmyoujiImoocTest_test_add_new_url.coverage" NAME="Unittests for OnmyouijImoocTest.OnmyoujiImoocTest.test_add_new_url Coverage Results" MODIFIED="1523038556537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/OnmyoujiImooc$Unittests_for_OnmyouijImoocTest_OnmyoujiImoocTest_test_get_new_url.coverage" NAME="Unittests for OnmyouijImoocTest.OnmyoujiImoocTest.test_get_new_url Coverage Results" MODIFIED="1523084063708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/OnmyoujiImooc$Unittests_for_HtmlParserTest_HtmlParserTest_test_re.coverage" NAME="Unittests for HtmlParserTest.HtmlParserTest.test_re Coverage Results" MODIFIED="1523198569043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="imooc_main.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/OnmyoujiImooc/imooc_main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="69" column="21" lean-forward="true" selection-start-line="69" selection-start-column="21" selection-end-line="69" selection-end-column="21" />
+              <folding>
+                <element signature="e#21#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HtmlParserTest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/HtmlParserTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="458">
+              <caret line="37" column="8" lean-forward="false" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="html_downloader.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OnmyoujiImooc/html_downloader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="html_parser.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OnmyoujiImooc/html_parser.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="69" column="69" lean-forward="true" selection-start-line="69" selection-start-column="69" selection-end-line="69" selection-end-column="69" />
+              <folding>
+                <element signature="e#21#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data_dealer.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OnmyoujiImooc/data_dealer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-60">
+              <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+              <folding>
+                <element signature="e#21#35#0" expanded="true" />
+                <marker date="1523201740191" expanded="true" signature="1033:1088" ph="INSERT INTO chapter... " />
+                <marker date="1523201740191" expanded="true" signature="1149:1250" ph="INSERT INTO chapter_monster... " />
+                <marker date="1523201740191" expanded="true" signature="1318:1405" ph="INSERT INTO chapter_detail... " />
+                <marker date="1523201740191" expanded="true" signature="2584:2911" ph="create table... shikigami" />
+                <marker date="1523201740191" expanded="true" signature="3056:3342" ph="create table... chapter_detail" />
+                <marker date="1523201740191" expanded="true" signature="3539:3628" ph="INSERT into shikigami... " />
+                <marker date="1523201740191" expanded="true" signature="3545:3628" ph="insert into shikigami... " />
+                <marker date="1523201740191" expanded="true" signature="3722:3748" ph="insert into shikigami... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="url_manager.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OnmyoujiImooc/url_manager.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="481">
+              <caret line="21" column="40" lean-forward="false" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>craw_shikigami</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/imooc_main.py" />
+        <option value="$PROJECT_DIR$/test/OnmyouijImoocTest.py" />
+        <option value="$PROJECT_DIR$/test/UrlManagerTest.py" />
+        <option value="$PROJECT_DIR$/test/HtmlDownloaderTest.py" />
+        <option value="$PROJECT_DIR$/test/DataDealerTest.py" />
+        <option value="$PROJECT_DIR$/OnmyoujiImooc/url_manager.py" />
+        <option value="$PROJECT_DIR$/OnmyoujiImooc/html_downloader.py" />
+        <option value="$PROJECT_DIR$/OnmyoujiImooc/imooc_main.py" />
+        <option value="$PROJECT_DIR$/test/HtmlParserTest.py" />
+        <option value="$PROJECT_DIR$/OnmyoujiImooc/data_dealer.py" />
+        <option value="$PROJECT_DIR$/OnmyoujiImooc/html_parser.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="311" />
+    <option name="y" value="31" />
+    <option name="width" value="1400" />
+    <option name="height" value="990" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="OnmyoujiImooc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OnmyoujiImooc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OnmyoujiImooc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OnmyoujiImooc" type="462c0819:PsiDirectoryNode" />
+              <item name="OnmyoujiImooc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OnmyoujiImooc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OnmyoujiImooc" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../imooc" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Python\PycharmProjects\OnmyoujiImooc\OnmyoujiImooc" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.imooc_main">
+    <configuration name="imooc_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OnmyoujiImooc" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="OnmyoujiImooc" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OnmyoujiImooc/imooc_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Unittests for HtmlParserTest.HtmlParserTest.test_re" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="OnmyoujiImooc" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;HtmlParserTest.HtmlParserTest.test_re&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for HtmlParserTest.HtmlParserTest.test_re2" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="OnmyoujiImooc" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;HtmlParserTest.HtmlParserTest.test_re2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests in DataDealerTest.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="OnmyoujiImooc" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/DataDealerTest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="Unittests in HtmlParserTest.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="OnmyoujiImooc" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/HtmlParserTest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in HtmlParserTest.py" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in DataDealerTest.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python.imooc_main" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for HtmlParserTest.HtmlParserTest.test_re2" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for HtmlParserTest.HtmlParserTest.test_re" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.imooc_main" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for HtmlParserTest.HtmlParserTest.test_re" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for HtmlParserTest.HtmlParserTest.test_re2" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in HtmlParserTest.py" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in DataDealerTest.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="400f781a-d723-4609-8317-80af9885d2b7" name="Default" comment="" />
+      <created>1523030030374</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523030030374</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_HtmlParserTest_HtmlParserTest_test_re - 2018.04.08 at 22h 42m 49s.xml">
+      <configuration name="Unittests for HtmlParserTest.HtmlParserTest.test_re" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_HtmlParserTest_HtmlParserTest_test_re2 - 2018.04.08 at 22h 41m 51s.xml">
+      <configuration name="Unittests for HtmlParserTest.HtmlParserTest.test_re2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_HtmlDownloaderTest_py - 2018.04.07 at 15h 22m 55s.xml">
+      <configuration name="Unittests in HtmlDownloaderTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_HtmlParserTest_py - 2018.04.07 at 15h 16m 26s.xml">
+      <configuration name="Unittests in HtmlParserTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_HtmlParserTest_py - 2018.04.07 at 15h 16m 33s.xml">
+      <configuration name="Unittests in HtmlParserTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_HtmlParserTest_py - 2018.04.07 at 15h 16m 39s.xml">
+      <configuration name="Unittests in HtmlParserTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_HtmlParserTest_py - 2018.04.07 at 15h 16m 49s.xml">
+      <configuration name="Unittests in HtmlParserTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_HtmlParserTest_py - 2018.04.08 at 00h 13m 53s.xml">
+      <configuration name="Unittests in HtmlParserTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_HtmlParserTest_py - 2018.04.08 at 00h 14m 33s.xml">
+      <configuration name="Unittests in HtmlParserTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_HtmlParserTest_py - 2018.04.08 at 22h 41m 31s.xml">
+      <configuration name="Unittests in HtmlParserTest.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26126608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/OnmyoujiImooc/imooc_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1920">
+          <caret line="66" column="26" lean-forward="false" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="26" />
+          <folding>
+            <element signature="e#21#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OnmyoujiImooc/html_downloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OnmyoujiImooc/data_dealer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="31" column="31" lean-forward="false" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+          <folding>
+            <element signature="e#21#35#0" expanded="true" />
+            <marker date="1523201740191" expanded="true" signature="1033:1088" ph="INSERT INTO chapter... " />
+            <marker date="1523201740191" expanded="true" signature="1149:1250" ph="INSERT INTO chapter_monster... " />
+            <marker date="1523201740191" expanded="true" signature="1318:1405" ph="INSERT INTO chapter_detail... " />
+            <marker date="1523201740191" expanded="true" signature="2584:2911" ph="create table... shikigami" />
+            <marker date="1523201740191" expanded="true" signature="3056:3342" ph="create table... chapter_detail" />
+            <marker date="1523201740191" expanded="true" signature="3539:3628" ph="INSERT into shikigami... " />
+            <marker date="1523201740191" expanded="true" signature="3545:3628" ph="insert into shikigami... " />
+            <marker date="1523201740191" expanded="true" signature="3722:3748" ph="insert into shikigami... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OnmyoujiImooc/url_manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="21" column="40" lean-forward="false" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OnmyoujiImooc/html_parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2100">
+          <caret line="73" column="43" lean-forward="true" selection-start-line="73" selection-start-column="43" selection-end-line="73" selection-end-column="43" />
+          <folding>
+            <element signature="e#21#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OnmyoujiImooc/imooc_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#21#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OnmyoujiImooc/html_downloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OnmyoujiImooc/html_parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="16" column="44" lean-forward="false" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+          <folding>
+            <element signature="e#21#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OnmyoujiImooc/data_dealer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="31" column="31" lean-forward="false" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+          <folding>
+            <element signature="e#21#35#0" expanded="true" />
+            <marker date="1523201740191" expanded="true" signature="1033:1088" ph="INSERT INTO chapter... " />
+            <marker date="1523201740191" expanded="true" signature="1149:1250" ph="INSERT INTO chapter_monster... " />
+            <marker date="1523201740191" expanded="true" signature="1318:1405" ph="INSERT INTO chapter_detail... " />
+            <marker date="1523201740191" expanded="true" signature="2584:2911" ph="create table... shikigami" />
+            <marker date="1523201740191" expanded="true" signature="3056:3342" ph="create table... chapter_detail" />
+            <marker date="1523201740191" expanded="true" signature="3539:3628" ph="INSERT into shikigami... " />
+            <marker date="1523201740191" expanded="true" signature="3545:3628" ph="insert into shikigami... " />
+            <marker date="1523201740191" expanded="true" signature="3722:3748" ph="insert into shikigami... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OnmyoujiImooc/url_manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="21" column="40" lean-forward="false" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OnmyoujiImooc/imooc_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#21#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/UrlManagerTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="60" lean-forward="true" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OnmyoujiImooc/html_downloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="46" lean-forward="true" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OnmyoujiImooc/html_parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+          <folding>
+            <element signature="e#21#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OnmyoujiImooc/data_dealer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="46" column="38" lean-forward="false" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
+          <folding>
+            <element signature="e#21#35#0" expanded="true" />
+            <marker date="1523201740191" expanded="true" signature="1033:1088" ph="INSERT INTO chapter... " />
+            <marker date="1523201740191" expanded="true" signature="1149:1250" ph="INSERT INTO chapter_monster... " />
+            <marker date="1523201740191" expanded="true" signature="1318:1405" ph="INSERT INTO chapter_detail... " />
+            <marker date="1523201740191" expanded="true" signature="2584:2911" ph="create table... shikigami" />
+            <marker date="1523201740191" expanded="true" signature="3056:3342" ph="create table... chapter_detail" />
+            <marker date="1523201740191" expanded="true" signature="3539:3628" ph="INSERT into shikigami... " />
+            <marker date="1523201740191" expanded="true" signature="3545:3628" ph="insert into shikigami... " />
+            <marker date="1523201740191" expanded="true" signature="3722:3748" ph="insert into shikigami... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OnmyoujiImooc/url_manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/UrlManagerTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/DataDealerTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/HtmlDownloaderTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OnmyoujiImooc/url_manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="21" column="40" lean-forward="false" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/HtmlParserTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="37" column="8" lean-forward="false" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OnmyoujiImooc/data_dealer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+          <folding>
+            <element signature="e#21#35#0" expanded="true" />
+            <marker date="1523201740191" expanded="true" signature="1033:1088" ph="INSERT INTO chapter... " />
+            <marker date="1523201740191" expanded="true" signature="1149:1250" ph="INSERT INTO chapter_monster... " />
+            <marker date="1523201740191" expanded="true" signature="1318:1405" ph="INSERT INTO chapter_detail... " />
+            <marker date="1523201740191" expanded="true" signature="2584:2911" ph="create table... shikigami" />
+            <marker date="1523201740191" expanded="true" signature="3056:3342" ph="create table... chapter_detail" />
+            <marker date="1523201740191" expanded="true" signature="3539:3628" ph="INSERT into shikigami... " />
+            <marker date="1523201740191" expanded="true" signature="3545:3628" ph="insert into shikigami... " />
+            <marker date="1523201740191" expanded="true" signature="3722:3748" ph="insert into shikigami... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OnmyoujiImooc/html_downloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OnmyoujiImooc/html_parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="69" column="69" lean-forward="true" selection-start-line="69" selection-start-column="69" selection-end-line="69" selection-end-column="69" />
+          <folding>
+            <element signature="e#21#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OnmyoujiImooc/imooc_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="69" column="21" lean-forward="true" selection-start-line="69" selection-start-column="21" selection-end-line="69" selection-end-column="21" />
+          <folding>
+            <element signature="e#21#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
